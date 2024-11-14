@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Eleilton Santos.
-- 👀 I’m interested in entrar para a área de dados e desenvolvimento.
-- 🌱 I’m currently learning tudo sobre banco de dados, Análise de dados com Python e Desenvolvimento Back End com Python.
-- 💞️ I’m looking to collaborate on uma organização que busca por pessoas comprometidas a buscar sempre o desenvolvimento tanto pessoal como profissional.
-- 📫 How to reach me através do email: ilton.sa@outlook.com e WhatsApp (48) 98874-4350.
+- 👋  Olá, sou Eleilton Santos (Ilton).
+- 👀 Atuar como Analista de Dados ou Desenvolvedor Back End, aplicando conhecimentos de Python e banco de dados para solucionar desafios e otimizar processos.
+- 🌱 Estou me especializando em Análise de Dados com Python (pandas, NumPy, Matplotlib), SQL, e Desenvolvimento Back End com Python (Django, Flask).
+- 💞️ Busco colaborar em organizações que incentivem o crescimento pessoal e profissional, com foco em resultados e inovação.
+- 📫 Você pode me encontrar no email: ilton.sa@outlook.com ou WhatsApp (48) 98874-4350.
+- 🔧 Projetos: Atualmente, estou desenvolvendo projetos relacionados a análise de dados, automação de processos e otimização de banco de dados.
 - 😄 Pronouns: Ilton santos
-- ⚡ Fun fact: Estou sempre buscando algo novo.
+- ⚡ Estou sempre buscando aprender novas tecnologias e expandir meu conhecimento, especialmente na área de dados e desenvolvimento.
 
 <!---
 Iltonns/Iltonns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
