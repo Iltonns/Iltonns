@@ -1,5 +1,5 @@
 - 👋  Olá, sou Eleilton Santos (Ilton).
-- 👀 Atuar como Analista de Dados ou Desenvolvedor Back End, aplicando conhecimentos de Python e banco de dados para solucionar desafios e otimizar processos.
+- 👀 AtuaR como Analista de Dados ou Desenvolvedor Back End, aplicando conhecimentos de Python e banco de dados para solucionar desafios e otimizar processos.
 - 🌱 Estou me especializando em Análise de Dados com Python (pandas, NumPy, Matplotlib), SQL, e Desenvolvimento Back End com Python (Django, Flask).
 - 💞️ Busco colaborar em organizações que incentivem o crescimento pessoal e profissional, com foco em resultados e inovação.
 - 📫 Você pode me encontrar no email: ilton.sa@outlook.com ou WhatsApp (48) 98874-4350.
